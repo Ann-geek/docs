@@ -95,7 +95,7 @@ The contribution activity section includes a detailed timeline of your work, inc
 If your site administrator has enabled {% data variables.product.prodname_unified_contributions %}, you can send {% data variables.product.prodname_enterprise %} contribution counts to your {% data variables.product.prodname_dotcom_the_website %} profile. For more information, see "[Sending your {% data variables.product.prodname_ghe_server %} contributions to your {% data variables.product.prodname_dotcom_the_website %}](/articles/sending-your-github-enterprise-server-contributions-to-your-github-com-profile)."
 {% endif %}
 
-## Further reading
+## Related information
 
 - "[Viewing contributions on your profile page](/articles/viewing-contributions-on-your-profile-page)"
 - "[Why are my contributions not showing up on my profile?](/articles/why-are-my-contributions-not-showing-up-on-my-profile)"
